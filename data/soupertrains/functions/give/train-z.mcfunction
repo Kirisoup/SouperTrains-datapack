@@ -1,0 +1,1 @@
+give @s tropical_fish_spawn_egg{EntityTag: {id: "armor_stand", Invisible: 1b, Invulnerable: 1b, NoGravity: 1b, Tags:["train", "tr-z", "tr-pre-renderer-init"]}, display: {Name: '[{"text":"Train-Z","italic":false}]', Lore: ['[{"text":"Summon a Human:FallFlat train! ","italic":false,"color":"white"},{"text":"KirisameSoup <3","italic":false,"color":"dark_purple"}]']}} 1
